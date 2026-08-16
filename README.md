@@ -107,7 +107,7 @@ The dashboard focuses on:
 
 ### Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
+![Customer Behavior Dashboard](dashboard.png)
 
 ---
 
